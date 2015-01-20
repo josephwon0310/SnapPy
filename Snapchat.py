@@ -77,7 +77,7 @@ class Snapchat:
 		f.close()
 
 
-
+#Jan 19, 2015
 # s = Snapchat()
 # auth_token1 = s.login("USERNAME", "PASSWORD")
 # unread_snaps =  s.get_snap_list()
